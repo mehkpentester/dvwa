@@ -1,0 +1,2 @@
+command injection low level.
+;find var/www/html -perm 777 -type d
